@@ -7,12 +7,6 @@
 * 소리와 보다가 합쳐진 단어로 소리정보를 볼 수 있도록 만들어진 ios app 서비스 입니다.
 * 청각장애인분들은 소리로 전달되는 정보들(각종 경고음, 안내방송, 수업 등)을 제대로 인지 할 수 없기 때문에 고안된 서비스 입니다.
 
-## 작업환경
-* Xcode Version 11.3.1
-* Alemofire 4.4
-* python 3.7.2
-* tensorflow 1.14.0
-
 ## 주요 기능
 ### 음성인식 기능
 * CSR(Clova Speech Recognition)모바일 SDK를 활용하여 음성인식을 진행하고 이를 텍스트로 표시해 줍니다.
@@ -26,9 +20,8 @@
 * Background 에서도 작동이 가능하도록 진행하였습니다.
 
 
+## DEMO
 
-
-
-
+![스크린샷 2020-09-03 오후 6 35 10](https://user-images.githubusercontent.com/44546283/92098463-38ec7a80-ee14-11ea-9198-2459cbef0ce5.png)
 
 
